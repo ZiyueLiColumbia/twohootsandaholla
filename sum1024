@@ -1,3 +1,5 @@
+#Author: Ziyue Li
+
 sum=0
 for arg in $@
 do
