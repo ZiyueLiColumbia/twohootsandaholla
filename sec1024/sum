@@ -1,5 +1,4 @@
-#Author: Ziyue Li
-
+#!/bin/bash
 sum=0
 for arg in $@
 do
